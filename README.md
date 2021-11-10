@@ -11,7 +11,7 @@ I realised that there are more GUIs out there other then PySimpleGUI, so I guess
 ## Contents
 
 I created an `.exe` file using [`pyinstaller`](https://stackoverflow.com/questions/17584698/getting-rid-of-console-output-when-freezing-python-programs-using-pyinstaller) writing `pyinstaller --onefile --noconsole notepad.py` in the console. <br>
-It's located inside the [`dist`](https://github.com/yuri-arauj0/Bloquinho-do-Yuri/tree/main/dist) folder.
+It's located inside the [`dist`](https://github.com/yuri-arauj0/Bloquinho-do-Yuri/tree/main/dist) folder. I don't know what the other files mean, but the `.exe` works fine without them.
 
 * [Screenshots](https://github.com/yuri-arauj0/Bloquinho-do-Yuri/blob/main/README.md#screenshots)
 * [References](https://github.com/yuri-arauj0/Bloquinho-do-Yuri/blob/main/README.md#references)
