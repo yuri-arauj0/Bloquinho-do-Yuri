@@ -1,2 +1,3 @@
 # Bloquinho do Yuri
-Praticando com PySimpleGUI
+Practicing with PySimpleGUI
+Using the library PySimpleGUI, we are able to do all sorts of amazing things - such as this notepad I made.
