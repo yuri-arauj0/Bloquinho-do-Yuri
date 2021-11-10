@@ -1,4 +1,4 @@
-# Bloquinho do Yuri
+# Bloquinho do Yuri - Simple Notepad Project
 Practicing with PySimpleGUI
 <br /> 
-Using the library PySimpleGUI, we are able to do all sorts of amazing things - such as this notepad I made.
+Using the library PySimpleGUI, one can do all sorts of amazing things - such as this notepad.
