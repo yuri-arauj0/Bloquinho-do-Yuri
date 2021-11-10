@@ -1,2 +1,2 @@
-# Bloquinho_do_Yuri
+# Bloquinho do Yuri
 Praticando com PySimpleGUI
