@@ -8,7 +8,12 @@ I'm new to Python, been studying it for about 2 months. Really looking forward t
 
 I realised that there are more GUIs out there other then PySimpleGUI, so I guess I'm going to figure them out later and maybe bring them here to GitHub too.
 
-# Screenshots
+## Contents
+* [Screenshots](https://github.com/yuri-arauj0/Bloquinho-do-Yuri/blob/main/README.md#screenshots)
+* [References](https://github.com/yuri-arauj0/Bloquinho-do-Yuri/blob/main/README.md#references)
+* [Contributions](https://github.com/yuri-arauj0/Bloquinho-do-Yuri/blob/main/README.md#contributions)
+
+## Screenshots
 (Don't mind the colors, I was just playing with the numerous themes available.)
 
 ![alt text](https://user-images.githubusercontent.com/86196750/141042217-b0e51115-dd7e-4763-b480-b42eda2b078b.png "Screenshot #1 - File Menu")
@@ -21,8 +26,8 @@ I realised that there are more GUIs out there other then PySimpleGUI, so I guess
 
 ![alt text](https://user-images.githubusercontent.com/86196750/141042075-fc94e894-b8f0-4a1a-aea4-53427cb2c967.png "Screenshot #5 - About Me")
 
-# References
+## References
 I used [Israel Dryer's project](https://github.com/israel-dryer/Notepad) to add pretty much all of the functionalities a notepad should have.
 
-# Contributions
+## Contributions
 Really, this is a very simple project, but if you know an easier way to do what Israel and I have done, let me (us) know!
