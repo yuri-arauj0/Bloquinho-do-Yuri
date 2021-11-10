@@ -9,6 +9,9 @@ I'm new to Python, been studying it for about 2 months. Really looking forward t
 I realised that there are more GUIs out there other then PySimpleGUI, so I guess I'm going to figure them out later and maybe bring them here to GitHub too.
 
 ## Contents
+
+I created an `.exe` file using `pyinstaller`. It's located inside the `dist` folder
+
 * [Screenshots](https://github.com/yuri-arauj0/Bloquinho-do-Yuri/blob/main/README.md#screenshots)
 * [References](https://github.com/yuri-arauj0/Bloquinho-do-Yuri/blob/main/README.md#references)
 * [Contributions](https://github.com/yuri-arauj0/Bloquinho-do-Yuri/blob/main/README.md#contributions)
